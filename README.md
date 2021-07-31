@@ -1,4 +1,4 @@
-# ReactComponentSelector
+# ReactColorComponentSelector
 
 [My first React deploy :D]
 
