@@ -9,3 +9,6 @@ I just wanted to practice what i've learn about react framework. It's not great 
 Thanks you much to Maximilian Schwarzmüller (a wonderful teacher) and Academind team 
 
 Check it out! https://mikevitamina.github.io/ReactComponentSelector/
+
+![image](https://user-images.githubusercontent.com/43521047/127730478-47e4e037-daf4-4cb8-be2d-ea8b373e1d41.png)
+
