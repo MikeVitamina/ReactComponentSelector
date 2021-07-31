@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MikeVitamina/ReactComponentSelector/static/css/main.1f8cd9a9.chunk.css",
+    "main.js": "/MikeVitamina/ReactComponentSelector/static/js/main.212d62da.chunk.js",
+    "main.js.map": "/MikeVitamina/ReactComponentSelector/static/js/main.212d62da.chunk.js.map",
+    "runtime-main.js": "/MikeVitamina/ReactComponentSelector/static/js/runtime-main.d2512e56.js",
+    "runtime-main.js.map": "/MikeVitamina/ReactComponentSelector/static/js/runtime-main.d2512e56.js.map",
+    "static/js/2.0bb58716.chunk.js": "/MikeVitamina/ReactComponentSelector/static/js/2.0bb58716.chunk.js",
+    "static/js/2.0bb58716.chunk.js.map": "/MikeVitamina/ReactComponentSelector/static/js/2.0bb58716.chunk.js.map",
+    "index.html": "/MikeVitamina/ReactComponentSelector/index.html",
+    "static/css/main.1f8cd9a9.chunk.css.map": "/MikeVitamina/ReactComponentSelector/static/css/main.1f8cd9a9.chunk.css.map",
+    "static/js/2.0bb58716.chunk.js.LICENSE.txt": "/MikeVitamina/ReactComponentSelector/static/js/2.0bb58716.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2512e56.js",
+    "static/js/2.0bb58716.chunk.js",
+    "static/css/main.1f8cd9a9.chunk.css",
+    "static/js/main.212d62da.chunk.js"
+  ]
+}
