@@ -1,7 +1,5 @@
 # ReactColorComponentSelector
 
-[My first React deploy :D]
-
 Color selector changes the Background color of a component using useState Hook, react-color and CSS modules
 
 I just wanted to practice what i've learn about react framework. It's not great (no responsive yet) but for me it is a big achieve and a close approach for what i wanted to do. 
